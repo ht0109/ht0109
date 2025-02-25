@@ -44,33 +44,11 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=himanshu-thakur&show_icons=true&theme=radical" alt="Himanshu's GitHub stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=himanshu-thakur&theme=radical" alt="Himanshu's GitHub Streak" width="48%" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=himanshu-thakur&layout=compact&theme=radical" alt="Top Languages" width="45%" />
 </p>
----
-
-## 📌 Pinned Repositories
-
-## 📌 Pinned Repositories
-
-<p align="center">
-  <a href="https://github.com/himanshu-thakur/My_Portfolio">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=himanshu-thakur&repo=My_Portfolio&theme=radical" />
-  </a>
-  <a href="https://github.com/himanshu-thakur/Recipe-Meal-Planner">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=himanshu-thakur&repo=Recipe-Meal-Planner&theme=radical" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/himanshu-thakur/House-Price-Prediction">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=himanshu-thakur&repo=House-Price-Prediction&theme=radical" />
-  </a>
-</p>
-
 ---
 
 ## 🌐 Connect with Me
