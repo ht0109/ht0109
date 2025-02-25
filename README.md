@@ -43,14 +43,9 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=himanshu-thakur&show_icons=true&theme=radical" alt="Himanshu's GitHub stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=himanshu-thakur&theme=radical" alt="Himanshu's GitHub Streak" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=himanshu-thakur&layout=compact&theme=tokyonight" alt="Most Used Languages" width="45%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=himanshu-thakur&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="45%"/>
 </p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=himanshu-thakur&layout=compact&theme=radical" alt="Top Languages" width="45%" />
-</p>
-
 ---
 
 ## 📌 Pinned Repositories
