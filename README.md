@@ -54,30 +54,20 @@
 
 ## 📌 Pinned Repositories
 
-<p align="center">
-  <a href="https://github.com/himanshu-thakur/Design_And_Development_of_Student_Mental_Health_Predictor_With_Chatbot">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=himanshu-thakur&repo=Design_And_Development_of_Student_Mental_Health_Predictor_With_Chatbot&theme=radical" />
-  </a>
-  <a href="https://github.com/himanshu-thakur/Laptop_Price_Prediction">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=himanshu-thakur&repo=Laptop_Price_Prediction&theme=radical" />
-  </a>
-</p>
+## 📌 Pinned Repositories
 
 <p align="center">
-  <a href="https://github.com/himanshu-thakur/Nifty-50_Stock_Price_Prediction">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=himanshu-thakur&repo=Nifty-50_Stock_Price_Prediction&theme=radical" />
-  </a>
-  <a href="https://github.com/himanshu-thakur/python-file-folder-manager">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=himanshu-thakur&repo=python-file-folder-manager&theme=radical" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/himanshu-thakur/Google_Text_To_Speech">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=himanshu-thakur&repo=Google_Text_To_Speech&theme=radical" />
-  </a>
   <a href="https://github.com/himanshu-thakur/My_Portfolio">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=himanshu-thakur&repo=My_Portfolio&theme=radical" />
+  </a>
+  <a href="https://github.com/himanshu-thakur/Recipe-Meal-Planner">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=himanshu-thakur&repo=Recipe-Meal-Planner&theme=radical" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/himanshu-thakur/House-Price-Prediction">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=himanshu-thakur&repo=House-Price-Prediction&theme=radical" />
   </a>
 </p>
 
