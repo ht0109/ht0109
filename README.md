@@ -44,9 +44,6 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=himanshu-thakur&show_icons=true&theme=radical" alt="Himanshu's GitHub stats" width="48%" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=himanshu-thakur&layout=compact&theme=radical" alt="Top Languages" width="45%" />
 </p>
 ---
